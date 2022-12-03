@@ -5,34 +5,19 @@
 
 
 <h2> 🎯 Objetivo </h2>
-Utilizar JavaScript para desenvolver o trabalho abaixo.
+Utilizar o framework VUE para resolver os problemas abaixo.
 
-1. Para esse trabalho iremos utilizar HTML + CSS + JavaScript.
-2. Utilizar a seguinte API: [https://api.chucknorris.io/](https://api.chucknorris.io/), <br>
-<em>(essa API permite apresentar fatos humorísticos a respeito do Chuck Norris)</em>
-3. Apresentar os fatos através das seguintes categorias:<br>
-a. Aleatório <br>
-b. Com base em uma categoria <br>
-c. Através de uma busca textual <br>
+1. Fazer uma página para o usuário gerar tabuadas, o usuário poderá escolher além da tabuada, mas também o início e o fim dela.
+2. Fazer uma página para cadastrar alunos de um curso, o cadastro deve constar o número de matrícula, nome e três notas. <br>
+Após realizar o cadastro do aluno, apresentá-lo em uma tabela, contendo os dados fornecidos e a média que será calculada. <br>
+Quando não houver nenhum aluno cadastrado, apresentar a mensagem: “Nenhum aluno cadastrado”.
 
-<p>
-  O site deve permitir que o usuário tenha acesso através de qualquer um dos três
- caminhos, ou seja, se ele quiser pode pedir uma curiosidade aleatória, 
- ou baseandose em uma categoria, ou através de uma busca textual.<br>
-  
-<h3>Rotas da API:</h3> 
- Apresenta uma curiosidade aleatória: <br>
- [https://api.chucknorris.io/jokes/random](https://api.chucknorris.io/jokes/random)
+3. Fazer uma página para registrar itens de um orçamento. <br>
+Para registrar um item o usuário deverá informar o nome do item, a quantidade e o valor unitário.<br>
+Ao exibir o item mostrar os dados fornecidos e o total calculado desse item.<br>
+Após a exibição dos itens mostrar o total da compra. Acrescentar um botão para reiniciar esse orçamento.
 
- Apresenta as categorias disponíveis: <br>
- [https://api.chucknorris.io/jokes/categories](https://api.chucknorris.io/jokes/categories)
 
- Apresenta uma curiosidade com base na categoria desejada: <br>
- [https://api.chucknorris.io/jokes/random?category={category}](https://api.chucknorris.io/jokes/random?category=%7Bcategory%7D)
-
- Apresenta uma curiosidade com base em uma busca textual: <br>
- [https://api.chucknorris.io/jokes/search?query=](https://api.chucknorris.io/jokes/search?query=){query}
-</p>
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
