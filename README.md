@@ -13,9 +13,10 @@ Após realizar o cadastro do aluno, apresentá-lo em uma tabela, contendo os dad
 Quando não houver nenhum aluno cadastrado, apresentar a mensagem: “Nenhum aluno cadastrado”.
 
 3. Fazer uma página para registrar itens de um orçamento. <br>
-Para registrar um item o usuário deverá informar o nome do item, a quantidade e o valor unitário.<br>
-Ao exibir o item mostrar os dados fornecidos e o total calculado desse item.<br>
-Após a exibição dos itens mostrar o total da compra. Acrescentar um botão para reiniciar esse orçamento.
+3.1-Para registrar um item o usuário deverá informar o nome do item, a quantidade e o valor unitário.<br>
+3.2-Ao exibir o item mostrar os dados fornecidos e o total calculado desse item.<br>
+3.3-Após a exibição dos itens mostrar o total da compra.<br> 
+3.4-Acrescentar um botão para reiniciar esse orçamento.
 
 
 
