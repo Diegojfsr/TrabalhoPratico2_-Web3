@@ -8,9 +8,11 @@
 Utilizar o framework VUE para resolver os problemas abaixo.
 
 1. Fazer uma página para o usuário gerar tabuadas, o usuário poderá escolher além da tabuada, mas também o início e o fim dela.
-2. Fazer uma página para cadastrar alunos de um curso, o cadastro deve constar o número de matrícula, nome e três notas. <br>
-Após realizar o cadastro do aluno, apresentá-lo em uma tabela, contendo os dados fornecidos e a média que será calculada. <br>
-Quando não houver nenhum aluno cadastrado, apresentar a mensagem: “Nenhum aluno cadastrado”.
+2. 
+3. Fazer uma página para cadastrar alunos de um curso.<br>
+3.1-O cadastro deve constar o número de matrícula, nome e três notas. <br>
+3.2-Após realizar o cadastro do aluno, apresentá-lo em uma tabela, contendo os dados fornecidos e a média que será calculada. <br>
+3.3-Quando não houver nenhum aluno cadastrado, apresentar a mensagem: “Nenhum aluno cadastrado”.
 
 3. Fazer uma página para registrar itens de um orçamento. <br>
 3.1-Para registrar um item o usuário deverá informar o nome do item, a quantidade e o valor unitário.<br>
