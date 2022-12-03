@@ -33,13 +33,32 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-
+  
+  <li><a href="https://router.vuejs.org/"> Documentação Vue Router. </a></li>
+  <li><a href="ttps://vuex.vuejs.org/"> Documentação Vuex. </a></li>
+  <li><a https://vuejs.org/"> Documentação Vus JS. </a></li>
+  <li><a https://nodejs.org/en/"> Documentação Node JS. </a></li>
+  <li><a https://code.visualstudio.com/"> Como instalar o VS Code. </a></li>
+  
 </ul>
+
+<h2 dir="auto"> 🔗 Repositórios Úteis </h2>
+<ul dir="auto">
+  
+  <li><a href="https://github.com/Leonardo-Lourenco/login-logout-vuejs-firebase"> Leonardo Lourenco. </a></li>
+
+  
+</ul>
+
+
+
+
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
 <li><a href="https://www.youtube.com/watch?v=HrJBHCiC3VA"> Lista de tarefas usando VueJS </a></li>
 <li><a href="https://www.youtube.com/watch?v=oEPVTnjIB_8&t=3767s"> Desenvolvendo uma Calculadora em Vue.js - Parte I </a></li>
+<li><a https://www.youtube.com/watch?v=7kvmT-InS9I"> Formulário de Cadastro | Login e Logout | Vue JS e Firebase #2</a></li>
 
 
 </ul>
