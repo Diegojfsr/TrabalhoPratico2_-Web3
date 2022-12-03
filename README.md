@@ -1,4 +1,7 @@
 <em><h1> Sejam bem-vindos ao meu Trabalho Pratico II em WebIII do IFSMG. </h1></em> 
+<p>
+  Repositorio criado para documentar meu projeto pratico desenvolvido durante o IV periodo de formação do Curso de GTI na disciplina de Rede Neural Artificial (RNA) do IF Sudeste MG.
+</p>
 
 
 <h2> 🎯 Objetivo </h2>
