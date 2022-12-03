@@ -35,7 +35,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 <ul dir="auto">
   
   <li><a href="https://router.vuejs.org/"> Documentação Vue Router. </a></li>
-  <li><a href="ttps://vuex.vuejs.org/"> Documentação Vuex. </a></li>
+  <li><a href="https://vuex.vuejs.org/"> Documentação Vuex. </a></li>
   <li><a href="https://vuejs.org/"> Documentação Vus JS. </a></li>
   <li><a href="https://nodejs.org/en/"> Documentação Node JS. </a></li>
   <li><a href="https://code.visualstudio.com/"> Como instalar o VS Code. </a></li>
