@@ -34,6 +34,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
   <li><a href="https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api"> Exibir cotações aleatórias </a></li>
+  <li><a href="https://www.youtube.com/watch?v=oEPVTnjIB_8&t=3767s"> Desenvolvendo uma Calculadora em Vue.js - Parte I </a></li>
 
 </ul>
 
