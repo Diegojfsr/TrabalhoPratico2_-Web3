@@ -66,6 +66,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 <li><a href="https://www.youtube.com/watch?v=7kvmT-InS9I"> Formulário de Cadastro | Login e Logout | Vue JS e Firebase #2</a></li>
 <li><a href="https://www.youtube.com/watch?v=WJMKClePvWQ"> Tabuada com javascript</a></li>
 <li><a href="https://www.youtube.com/watch?v=KEiPFkoeygQ&t=398s"> Criando Aplicativo de Tabuada com JavaScript</a></li>
+<li><a href="https://www.youtube.com/watch?v=jGhRmAvDqnk&list=PLZO_SqCI6cXaVQCwpI4UfjcuMvRRjzkEK&index=1"> SISTEMA DE GESTÃO DE USUÁRIOS COM JS PURO</a></li>
 
 
 </ul>
