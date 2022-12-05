@@ -64,6 +64,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 <li><a href="https://www.youtube.com/watch?v=HrJBHCiC3VA"> Lista de tarefas usando VueJS </a></li>
 <li><a href="https://www.youtube.com/watch?v=oEPVTnjIB_8&t=3767s"> Desenvolvendo uma Calculadora em Vue.js - Parte I </a></li>
 <li><a href="https://www.youtube.com/watch?v=7kvmT-InS9I"> Formulário de Cadastro | Login e Logout | Vue JS e Firebase #2</a></li>
+<li><a href="https://www.youtube.com/watch?v=WJMKClePvWQ"> Tabuada com javascript</a></li>
 
 
 </ul>
