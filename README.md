@@ -44,6 +44,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
   <li><a href="https://vuejs.org/"> Documentação Vus JS. </a></li>
   <li><a href="https://nodejs.org/en/"> Documentação Node JS. </a></li>
   <li><a href="https://code.visualstudio.com/"> Como instalar o VS Code. </a></li>
+  <li><a href="https://codepen.io/pen/"> codepen.io </a></li>
   
 </ul>
 
