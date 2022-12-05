@@ -12,7 +12,7 @@
 <h2> 🎯 Objetivo </h2>
 Utilizar o framework VUE para resolver os problemas abaixo.
 
-1. Fazer uma página para o usuário gerar tabuadas, o usuário poderá escolher além da tabuada, mas também o início e o fim dela.
+1. Fazer uma página para o usuário gerar tabuadas, o usuário poderá escolher a tabuada, o início e o fim dela.
 
 2. Fazer uma página para cadastrar alunos de um curso.<br>
 2.1-O cadastro deve constar o número de matrícula, nome e três notas. <br>
