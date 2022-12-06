@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+  <link rel="stylesheet" href="./assets/css/reset.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <script src="./assets/js/Sortable.js" defer></script>
+  <script src="./assets/js/main.js" defer></script>
+  <script src="./assets/js/checked.js" defer></script>
+  <script src="./assets/js/remove.js" defer></script>
+  <script src="./assets/js/removeall.js" defer></script>
+  <script src="./assets/js/filtro.js" defer></script>
+  <script src="./assets/js/darkmode.js" defer></script>
+  <script src="./assets/js/alteracaoUi.js" defer></script>
+
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <title>App Lista</title>
+
+</head>
+
+<body>
+  <main>
+    <header>
+      <h1>App Lista</h1>
+      <button class="btn__tema light" data-theme><img id="icone" src="./assets/images/icon-moon.svg" alt="moon svg"></button>
+    </header>
+
+    <form id="todo__form">
+      <!--<input type="checkbox" disabled name="" id="">-->
+      <div class="circulo__referencia"></div>
+      <input type="text" id="todo__input" placeholder="Create a new todo..">
+    </form>
+
+    <section class="todo__container">
+      <ul class="tarefas">
+       
+      </ul>
+
+      <div class="acoes">
+        <p class="itens__restantes">
+          <span id="itens__restantes--contador">0</span>
+          items left
+        </p>
+        <a href="#" class="btn__limpar__campos">Clear Completed</a>
+      </div>
+    </section>
+
+    <section class="filtros">
+      <a href="#" class="btn__filter all ativado">All</a>
+      <a href="#" class="btn__filter active">Active</a>
+      <a href="#" class="btn__filter btn__completed">Completed</a>
+    </section>
+    <p class="ref"></p>
+
+  </main>
+
+  <footer>
+    <div class="attribution">
+      <!--Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="#"> Jorge Alexandre </a><span>and</span> <a href="#"> Cleber Severo</a>.-->
+    </div>
+  </footer>
+
+
+</body>
+
+</html>
