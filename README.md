@@ -5,7 +5,7 @@
 </em> 
 
 <p>
-  Repositorio criado para documentar meu projeto pratico desenvolvido durante o IV periodo de formação do Curso de GTI na disciplina de Rede Neural Artificial (RNA) do IF Sudeste MG.
+  Repositorio criado para documentar meu projeto pratico desenvolvido durante o IV periodo de formação do Curso de GTI na disciplina Web3 do IF Sudeste MG.
 </p>
 
 
@@ -68,7 +68,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 <li><a href="https://www.youtube.com/watch?v=WJMKClePvWQ"> Tabuada com javascript</a></li>
 <li><a href="https://www.youtube.com/watch?v=KEiPFkoeygQ&t=398s"> Criando Aplicativo de Tabuada com JavaScript</a></li>
 <li><a href="https://www.youtube.com/watch?v=jGhRmAvDqnk&list=PLZO_SqCI6cXaVQCwpI4UfjcuMvRRjzkEK&index=1"> SISTEMA DE GESTÃO DE USUÁRIOS COM JS PURO</a></li>
-<li><a href="https://www.youtube.com/watch?v=6Q2zZiuJPF4&list=PLGwqoftZstLZUQGt3GeLpI-QAZaT8ccVG&index=1"> Programação Orientada a Objetos no Javascript na Prática - Curso de Javascript Puro - Aula 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=6Q2zZiuJPF4&list=PLGwqoftZstLZUQGt3GeLpI-QAZaT8ccVG&index=1"> Programação Orientada a Objetos no Javascript na Prática</a></li>
 
 
 </ul>
