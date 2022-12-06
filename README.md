@@ -52,7 +52,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 <ul dir="auto">
   
   <li><a href="https://github.com/Leonardo-Lourenco/login-logout-vuejs-firebase"> Leonardo Lourenco. </a></li>
-
+  <li><a href="https://github.com/Cleber-Severo/To-do-app"> Cleber Severo. </a></li>
   
 </ul>
 
