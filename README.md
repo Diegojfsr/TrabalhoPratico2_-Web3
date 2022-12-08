@@ -29,9 +29,10 @@ Utilizar o framework VUE para resolver os problemas abaixo.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Etapa I - <a href=" https:// "> Acessar </a></li>
-<li> Etapa II - <a href=" https:// "> Acessar </a></li>
-<li> Etapa III - <a href=" https:// "> Acessar </a></li>
+<li> Etapa I - <a href="https:// "> Acessar </a></li>
+<li> Etapa II - <a href="https:// "> Acessar </a></li>
+<li> Etapa III - <a href="https:// "> Acessar </a></li>
+
 </ul>
 
 
