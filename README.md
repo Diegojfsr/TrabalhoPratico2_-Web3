@@ -49,6 +49,16 @@ Utilizar o framework VUE para resolver os problemas abaixo.
   
 </ul>
 
+<h2 dir="auto"> 🔗 Links Úteis </h2>
+<ul dir="auto">
+
+Project setup: npm install<br>
+Compiles and hot-reloads for development: npm run serve<br>
+Compiles and minifies for production: npm run build<br>
+Lints and fixes files: npm run lint<br>
+</ul>
+
+
 <h2 dir="auto"> 🔗 Repositórios Úteis </h2>
 <ul dir="auto">
   
