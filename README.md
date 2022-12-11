@@ -49,7 +49,7 @@ Utilizar o framework VUE para resolver os problemas abaixo.
   
 </ul>
 
-<h2 dir="auto"> 🔗 Links Úteis </h2>
+<h2 dir="auto"> 🔗 Comandos Úteis </h2>
 <ul dir="auto">
 
 Project setup: npm install<br>
